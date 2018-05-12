@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31978'
     url: http://www.gutenberg.org/2009/agents/31978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26398#Tudor-and-Stuart-Love-Songs
 gutenberg_issued: '2008-08-23'
 gutenberg_type: Text
 identifiers:
