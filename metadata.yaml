@@ -1,0 +1,28 @@
+_repo: Tudor-and-Stuart-Love-Songs_26398
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Briscoe, John Potter
+    alias: Briscoe, J. Potter (John Potter)
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '31978'
+    url: http://www.gutenberg.org/2009/agents/31978
+description: ''
+gutenberg_issued: '2008-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love poetry'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcc 'PR'
+title: Tudor and Stuart Love Songs
+url: http://www.gutenberg.org/ebooks/26398
